@@ -1,0 +1,1 @@
+Simple project in React Native to assist my girlfriend on speeding up her process of adding total value of an essay
