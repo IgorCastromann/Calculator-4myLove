@@ -53,6 +53,7 @@ const styles = StyleSheet.create({
     buttonAdd: {
         fontSize: 20,
         padding: 10,
+        backgroundColor: 'white',
 
     }
 })
