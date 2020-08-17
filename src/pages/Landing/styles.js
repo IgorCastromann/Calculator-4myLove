@@ -53,7 +53,10 @@ const styles = StyleSheet.create({
     buttonAdd: {
         fontSize: 20,
         padding: 10,
-        backgroundColor: 'white',
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#87bdd8',
+        marginBottom: 5,
 
     }
 })
